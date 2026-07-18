@@ -126,6 +126,8 @@ glam-30 = ["firewheel-core/glam-30"]
 glam-31 = ["firewheel-core/glam-31"]
 # Enables `glam::Vec2` and `glam::Vec3` parameter derives for glam 0.32.
 glam-32 = ["firewheel-core/glam-32"]
+# Enables `glam::Vec2` and `glam::Vec3` parameter derives for glam 0.33.
+glam-33 = ["firewheel-core/glam-33"]
 # Enables the `MIDI` event type, using the `wmidi` crate.
 midi_events = ["firewheel-core/midi_events"]
 # Enables serde derives for types
